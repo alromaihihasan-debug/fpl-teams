@@ -1,0 +1,70 @@
+{
+ "current": [
+  {
+   "event": 1,
+   "points": 54,
+   "total_points": 54,
+   "rank": 3208423,
+   "rank_sort": 3481001,
+   "overall_rank": 3208418,
+   "percentile_rank": 40,
+   "overall_rank_percentage": "36",
+   "bank": 0,
+   "value": 1000,
+   "event_transfers": 0,
+   "event_transfers_cost": 0,
+   "points_on_bench": 5
+  },
+  {
+   "event": 2,
+   "points": 89,
+   "total_points": 143,
+   "rank": 3213575,
+   "rank_sort": 3298756,
+   "overall_rank": 2815476,
+   "percentile_rank": 35,
+   "overall_rank_percentage": "28",
+   "bank": 0,
+   "value": 1001,
+   "event_transfers": 0,
+   "event_transfers_cost": 0,
+   "points_on_bench": 7
+  },
+  {
+   "event": 3,
+   "points": 56,
+   "total_points": 199,
+   "rank": 3401121,
+   "rank_sort": 3539604,
+   "overall_rank": 2406132,
+   "percentile_rank": 35,
+   "overall_rank_percentage": "23",
+   "bank": 4,
+   "value": 1002,
+   "event_transfers": 0,
+   "event_transfers_cost": 0,
+   "points_on_bench": 11
+  }
+ ],
+ "past": [
+  {
+   "season_name": "2021/22",
+   "total_points": 1535,
+   "rank": 7179197,
+   "rank_percentage": "79"
+  },
+  {
+   "season_name": "2024/25",
+   "total_points": 1600,
+   "rank": 9293130,
+   "rank_percentage": "81"
+  }
+ ],
+ "chips": [
+  {
+   "name": "wildcard",
+   "time": "2026-08-30T19:19:46.099455Z",
+   "event": 3
+  }
+ ]
+}
