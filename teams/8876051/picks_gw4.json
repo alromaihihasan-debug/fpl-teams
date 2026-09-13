@@ -3,18 +3,18 @@
  "automatic_subs": [],
  "entry_history": {
   "event": 4,
-  "points": 0,
-  "total_points": 199,
-  "rank": null,
-  "rank_sort": null,
-  "overall_rank": 2406132,
-  "percentile_rank": null,
-  "overall_rank_percentage": null,
+  "points": 31,
+  "total_points": 230,
+  "rank": 8403640,
+  "rank_sort": 8424033,
+  "overall_rank": 3952566,
+  "percentile_rank": 80,
+  "overall_rank_percentage": "37",
   "bank": 2,
   "value": 1008,
   "event_transfers": 2,
   "event_transfers_cost": 0,
-  "points_on_bench": 0
+  "points_on_bench": 3
  },
  "picks": [
   {
