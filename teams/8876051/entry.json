@@ -13,7 +13,7 @@
  "summary_overall_points": 351,
  "summary_overall_rank": 686545,
  "summary_event_points": 67,
- "summary_event_rank": 613814,
+ "summary_event_rank": 613812,
  "current_event": 5,
  "leagues": {
   "classic": [
@@ -280,7 +280,7 @@
     "entry_can_leave": false,
     "entry_last_rank": 438522,
     "entry_percentile_rank": 10,
-    "entry_rank": 196985,
+    "entry_rank": 196997,
     "featured_entry_ids": [],
     "has_cup": false,
     "id": 431170,
