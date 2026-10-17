@@ -1,5 +1,32 @@
 [
  {
+  "element_in": 397,
+  "element_in_cost": 83,
+  "element_out": 398,
+  "element_out_cost": 68,
+  "entry": 8876051,
+  "event": 7,
+  "time": "2026-10-15T08:21:36.600647Z"
+ },
+ {
+  "element_in": 634,
+  "element_in_cost": 60,
+  "element_out": 379,
+  "element_out_cost": 90,
+  "entry": 8876051,
+  "event": 7,
+  "time": "2026-10-15T08:21:36.598433Z"
+ },
+ {
+  "element_in": 286,
+  "element_in_cost": 52,
+  "element_out": 454,
+  "element_out_cost": 61,
+  "entry": 8876051,
+  "event": 7,
+  "time": "2026-10-15T06:30:43.234798Z"
+ },
+ {
   "element_in": 26,
   "element_in_cost": 75,
   "element_out": 632,
